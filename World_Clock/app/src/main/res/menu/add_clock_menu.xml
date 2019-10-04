@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/auckland"
+        android:title="@string/auckland" />
+    <item android:id="@+id/berlin"
+        android:title="@string/berlin" />
+    <item android:id="@+id/dubai"
+        android:title="@string/dubai" />
+    <item android:id="@+id/kualalumpur"
+        android:title="@string/kualalumpur" />
+    <item android:id="@+id/london"
+        android:title="@string/london" />
+    <item android:id="@+id/losangeles"
+        android:title="@string/losangeles" />
+    <item android:id="@+id/paris"
+        android:title="@string/paris" />
+    <item android:id="@+id/newyork"
+        android:title="@string/newyork" />
+    <item android:id="@+id/rome"
+        android:title="@string/rome" />
+    <item android:id="@+id/singapore"
+        android:title="@string/singapore" />
+    <item android:id="@+id/shanghai"
+        android:title="@string/shanghai" />
+    <item android:id="@+id/sydney"
+        android:title="@string/sydney" />
+    <item android:id="@+id/taipei"
+        android:title="@string/taipei" />
+    <item android:id="@+id/tokyo"
+        android:title="@string/tokyo" />
+    <item android:id="@+id/toronto"
+        android:title="@string/toronto" />
+</menu>

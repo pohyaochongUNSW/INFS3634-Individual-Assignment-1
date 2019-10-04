@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string name="sampleTime">00:00 AM</string>
+    <string name="sampleCity">Sydney</string>
+    <string name="sampleDate">01/01/2019, Today, +0HRS</string>
+
+    <string name="formatSwitcher">12HR/24HR</string>
+
+    <string name="addClockBtnDesc">Add other cities\' clock</string>
+
+    <string name="london">London</string>
+    <string name="sydney">Sydney</string>
+    <string name="auckland">Auckland</string>
+    <string name="dubai">Dubai</string>
+    <string name="kualalumpur">Kuala Lumpur</string>
+    <string name="paris">Paris</string>
+    <string name="shanghai">Shanghai</string>
+    <string name="newyork">New York</string>
+    <string name="berlin">Berlin</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="toronto">Toronto</string>
+    <string name="singapore">Singapore</string>
+    <string name="rome">Rome</string>
+    <string name="losangeles">Los Angeles</string>
+    <string name="taipei">Taipei</string>
+
+    <string name="timezone_london">Europe/London</string>
+    <string name="timezone_sydney">Australia/Sydney</string>
+    <string name="timezone_kualalumpur">Asia/Kuala_Lumpur</string>
+    <string name="timezone_paris">Europe/Paris</string>
+    <string name="timezone_shanghai">Asia/Shanghai</string>
+    <string name="timezone_newyork">America/New_York</string>
+    <string name="timezone_auckland">Pacific/Auckland</string>
+    <string name="timezone_dubai">Asia/Dubai</string>
+    <string name="timezone_berlin">Europe/Berlin</string>
+    <string name="timezone_tokyo">Asia/Tokyo</string>
+    <string name="timezone_toronto">America/Toronto</string>
+    <string name="timezone_singapore">Asia/Singapore</string>
+    <string name="timezone_rome">Europe/Rome</string>
+    <string name="timezone_losangeles">America/Los_Angeles</string>
+    <string name="timezone_taipei">Asia/Taipei</string>
+</resources>
